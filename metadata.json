@@ -1,0 +1,8 @@
+{
+  "name": "Remix Loopyu New Gen",
+  "description": "Platform edukasi perulangan dan manajemen tugas tim berbasis Experiential Learning dengan kolaborasi real-time, database terpadu, dan notifikasi otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
